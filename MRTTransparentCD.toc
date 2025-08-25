@@ -1,0 +1,7 @@
+## Interface: 11507
+## Title: MRT Transparent CD
+## Notes: Hides the title & background for Method Raid Tools "Raid cooldowns"
+## Author: vocoder+GPT
+## Version: 1.3
+## Dependencies: MRT
+MRTTransparentCD.lua
